@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "netgraf-ml-pipeline",
+  "private_key_id": "6bbbf19295040a0f5e162465941ad7e78e28a9b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC/MPaRcD3yDEoE\nH3f9tVmSlJrDWKW2FYcEKk4D4qRNCSbpAlFKEe5EDGO4Klb6uC8m96/VfkcpXkqq\nYpHzIR/JZ4Ev+h5cJxajk8aPuotMLuGsjzwV60/S03Q7gx+4EX8dqnJtDAxG8elS\nU9kVfsQx3iWgUZlBW6EqwrD/ClJU5pKkBycs5ao9NRD9OKKeaAk8W2eQb9m7CE4q\nWrLN/qGH0YFhU+vu4vzaWtljdWKs4UCModrQiMzKM3SHujpup4+mYW+PKMjMsw1U\nJ55iYZAierg4fXJpI4PFkuZoP/+PmzD228mf7xByW5UNih+CH/OvY626kFWw+s8g\nBU4F/V/ZAgMBAAECggEADTVlGMp9V8HmQdSpZdtn3crrH5XPP6jLFCGWvt6jOo3o\nT0QRY6Gg1A4FvE0d3I0UTN04cPJxbiKNMVTv/7EJJiaYHpK+vYpsc6Pw8tsQu+mn\n6P5YSKy3bg7ybRjI/Il7k7bD2FQdwQT+I+mWX3gg4SUXdQpOITLNtqDkDiqjYilm\nXD9eSxLz8wyBOo2E7jZxcymz4rY2O7LPD1VxpgGbCgGT/R7K7hRR4QvJJ0JXkaiR\nV4Gw11rmtHFFp+ZVyCHp7Y7EC7dpHCeu40MhLczhC3tqdBkp3XqY+bmxYHJikSHU\n8ocNGGG86Vm9RzuSJz6yapllu6dqDe8wHOyY8CuHEQKBgQD39DZeKVgA1o8q8HYv\nQDcaqoJAj3DpwzhYCJ/fjIvj/2avLnu369c6cm6LbYoC5CKpR56+q7R+4ZTaD1Us\noTiyA7XooU+qxp/Gi8GhXJ4ndUkdf0ukAmCcjqdF71IKfjB2uGm+3c/gIfgziDtx\nZmNLM1iE2c3spXBAJ0sDz0nqjQKBgQDFZTcc+LPOkTxSBYSHjKpwd5+SXwS5/roT\nJfEf60PT0DCVeLRHHHmyYlNZYSGgNBb71VwzBYny/V8aHKXK9o5HyxOfhCC6KKI6\nr6Hg2Z7Ck1jipwwwhU4eqcsXS52hVsBrtOZGRZIjrnR1YxvAlsKm3aTztRnqPbLQ\nLRnthJt9fQKBgQClW64uWbAgzvYnkrmehVq6Y9/9oiuRGeone4jzEs3wPVGDnqJP\nY+7jQZFLVr/lcbNT5TmOuv/iZhpY2kTZQKOIxES6YWm54ECJroZxUE0Az4z1KQGO\n3S8E+XXAg/vYl5NGeXG8Ij0RolXeOAo8dCXf7twnrQFRwnr7rbivT7xhuQKBgQCc\nFthI6YTNcF0hgsl0ok/YVU9yX/6N0RZ0s8kC83eUE4mHeIYdwS+eVlAQWlVLqEUQ\naHvawKN/6Mj+De8wGl0R+kyPE90JN75o5576/TqkI/3iZDOoXpESgDNfPWTtQnsv\n8EEzCipwWrAubutwFAbiClw4dlmCt70hDrj076pAxQKBgQC5MaGA81Slp9tkCEzL\nNdA8C78NN/e6p9AGXKCg+O8N25WEBYXnUrJJZMEqmCWHPyCY6XlQaCKSrdDNBEHh\n4zAznAOzfJd1DYHbtwqpcMrfZC+PKTP66YgZN5/ALb0C7AHdOZNA0FsHO5f/opdp\nNy6/EJD8fsmBu3LDkkHKKLQhyQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "netgraf-service-account@netgraf-ml-pipeline.iam.gserviceaccount.com",
+  "client_id": "104549547072364854051",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/netgraf-service-account%40netgraf-ml-pipeline.iam.gserviceaccount.com"
+}
